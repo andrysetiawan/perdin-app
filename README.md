@@ -1,6 +1,6 @@
 # Perdin Apps
 
-A business travel allowance management system. Employees submit travel requests, and HR/Admin can approve or reject them. The system automatically calculates travel distance and daily allowances.
+A business travel allowance management system.
 
 ## Applications
 
